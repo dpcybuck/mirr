@@ -1,4 +1,4 @@
 # mirr
-This is the repository for the Mock Interview and Resume Review Workshop established at Derby Con 2015. The purpose of this github [brain dump](https://github.com/mzbat/mirr/blob/master/braindump) is to provide tools & insights for folks who want to conduct MIRR workshops in their local communities.
+Please check out the mzbat repo for updates and changes.  There has been a lot of work there to make this conent easier to consume and use during the MIRR.
 
-The formatted web version of this will likely live somewhere on [StabOps.com](https://stabops.com/), but for now it only lives here.
+This repo is my exension for small things like adding fake job descriptions.  Or, a workspace before I ask [github]mzbat to pull my change in.
